@@ -1,4 +1,4 @@
-# Git Bash Config Files
+# Git Bash Config Files for Windows
 
 ## Setup
 
